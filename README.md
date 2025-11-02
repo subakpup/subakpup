@@ -5,8 +5,8 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧩 BOJ </h2>
   <div align="left">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=subakpup" alt="solved.ac tier"/>
-    <img src="https://mazandi.herokuapp.com/api?handle=subakpup&theme=dark" alt="baekjoon streak heatmap"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=subakpup" alt="solved.ac tier" width="50%"/>
+    <img src="https://mazandi.herokuapp.com/api?handle=subakpup&theme=dark" alt="baekjoon streak heatmap" width="50%"/>
   </div>
 </div>
 
